@@ -1,6 +1,6 @@
-
+#Here we are firstly importing a required module
 import tkinter as tk
-
+#Here we are creating a class in order to create different methods
 class ToDoList:
     def __init__(self, master):
         self.master = master
